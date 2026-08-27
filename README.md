@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/urfavvvpranjal">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=8b5cf6&fontSize=54&height=90&width=954&text=Pranjal%20%7C%20Java%20%26%20Full%20Stack" alt="Pranjal | Java &amp; Full Stack" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=8b5cf6&fontSize=54&height=90&width=1200&text=Pranjal%20%7C%20Full%20Stack%20Java%20%20Developer" alt="Pranjal | Full Stack Java  Developer" />
   </a>
 </p>
 
